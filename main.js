@@ -1,7 +1,7 @@
 const form = document.getElementById('form-agenda');
 let linhas = '';
 
-form.addEventListener('submit', function(e){
+form.addEventListener('submit', function(e) {
     e.preventDefault();
 
     const inputNomeContato = document.getElementById('nome-contato');
