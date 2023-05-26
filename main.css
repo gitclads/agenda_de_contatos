@@ -79,13 +79,5 @@ table td {
     border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 }
 
-#tdImg {
-    display: flex;
-    align-items: center;
-}
-
-table td img {
-    height: 50px;
-}
 
 
